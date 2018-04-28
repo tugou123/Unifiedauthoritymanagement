@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  unifiedauthoritymanagement:
+    ports:
+      - "80"
+  manager.api:
+    ports:
+      - "80"
+networks:
+  default:
+    external:
+      name: nat
+

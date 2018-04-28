@@ -1,0 +1,15 @@
+G:\统一授权管理系统\DemoTest\Unifiedauthoritymanagement\EnumInfo\bin\Debug\EnumInfo.dll
+G:\统一授权管理系统\DemoTest\Unifiedauthoritymanagement\EnumInfo\bin\Debug\EnumInfo.pdb
+G:\统一授权管理系统\DemoTest\Unifiedauthoritymanagement\EnumInfo\obj\Debug\EnumInfo.dll
+G:\统一授权管理系统\DemoTest\Unifiedauthoritymanagement\EnumInfo\obj\Debug\EnumInfo.pdb
+G:\统一授权管理系统\Unifiedauthoritymanagement\EnumInfo\bin\Debug\EnumInfo.dll
+G:\统一授权管理系统\Unifiedauthoritymanagement\EnumInfo\bin\Debug\EnumInfo.pdb
+G:\统一授权管理系统\Unifiedauthoritymanagement\EnumInfo\obj\Debug\EnumInfo.csproj.CoreCompileInputs.cache
+G:\统一授权管理系统\Unifiedauthoritymanagement\EnumInfo\obj\Debug\EnumInfo.dll
+G:\统一授权管理系统\Unifiedauthoritymanagement\EnumInfo\obj\Debug\EnumInfo.pdb
+G:\统一授权管理系统\EnumInfo\bin\Debug\EnumInfo.dll
+G:\统一授权管理系统\EnumInfo\bin\Debug\EnumInfo.pdb
+G:\统一授权管理系统\EnumInfo\obj\Debug\EnumInfo.csproj.CoreCompileInputs.cache
+G:\统一授权管理系统\EnumInfo\obj\Debug\EnumInfo.dll
+G:\统一授权管理系统\EnumInfo\obj\Debug\EnumInfo.pdb
+G:\统一授权管理系统\EnumInfo\obj\Debug\EnumInfo.csprojResolveAssemblyReference.cache

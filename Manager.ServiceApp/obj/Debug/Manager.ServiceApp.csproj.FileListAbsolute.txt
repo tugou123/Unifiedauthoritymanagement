@@ -1,0 +1,11 @@
+G:\统一授权管理系统\Unifiedauthoritymanagement\Manager.ServiceApp\bin\Debug\Manager.ServiceApp.dll
+G:\统一授权管理系统\Unifiedauthoritymanagement\Manager.ServiceApp\bin\Debug\Manager.ServiceApp.pdb
+G:\统一授权管理系统\Unifiedauthoritymanagement\Manager.ServiceApp\obj\Debug\Manager.ServiceApp.csprojResolveAssemblyReference.cache
+G:\统一授权管理系统\Unifiedauthoritymanagement\Manager.ServiceApp\obj\Debug\Manager.ServiceApp.csproj.CoreCompileInputs.cache
+G:\统一授权管理系统\Unifiedauthoritymanagement\Manager.ServiceApp\obj\Debug\Manager.ServiceApp.dll
+G:\统一授权管理系统\Unifiedauthoritymanagement\Manager.ServiceApp\obj\Debug\Manager.ServiceApp.pdb
+G:\统一授权管理系统\Manager.ServiceApp\bin\Debug\Manager.ServiceApp.dll
+G:\统一授权管理系统\Manager.ServiceApp\bin\Debug\Manager.ServiceApp.pdb
+G:\统一授权管理系统\Manager.ServiceApp\obj\Debug\Manager.ServiceApp.csproj.CoreCompileInputs.cache
+G:\统一授权管理系统\Manager.ServiceApp\obj\Debug\Manager.ServiceApp.dll
+G:\统一授权管理系统\Manager.ServiceApp\obj\Debug\Manager.ServiceApp.pdb

@@ -1,0 +1,14 @@
+G:\统一授权管理系统\DemoTest\Unifiedauthoritymanagement\Manager.Model\bin\Debug\Manager.Model.dll
+G:\统一授权管理系统\DemoTest\Unifiedauthoritymanagement\Manager.Model\bin\Debug\Manager.Model.pdb
+G:\统一授权管理系统\DemoTest\Unifiedauthoritymanagement\Manager.Model\obj\Debug\Manager.Model.dll
+G:\统一授权管理系统\DemoTest\Unifiedauthoritymanagement\Manager.Model\obj\Debug\Manager.Model.pdb
+G:\统一授权管理系统\Unifiedauthoritymanagement\Manager.Model\bin\Debug\Manager.Model.dll
+G:\统一授权管理系统\Unifiedauthoritymanagement\Manager.Model\bin\Debug\Manager.Model.pdb
+G:\统一授权管理系统\Unifiedauthoritymanagement\Manager.Model\obj\Debug\Manager.Model.csproj.CoreCompileInputs.cache
+G:\统一授权管理系统\Unifiedauthoritymanagement\Manager.Model\obj\Debug\Manager.Model.dll
+G:\统一授权管理系统\Unifiedauthoritymanagement\Manager.Model\obj\Debug\Manager.Model.pdb
+G:\统一授权管理系统\Manager.Model\bin\Debug\Manager.Model.dll
+G:\统一授权管理系统\Manager.Model\bin\Debug\Manager.Model.pdb
+G:\统一授权管理系统\Manager.Model\obj\Debug\Manager.Model.csproj.CoreCompileInputs.cache
+G:\统一授权管理系统\Manager.Model\obj\Debug\Manager.Model.dll
+G:\统一授权管理系统\Manager.Model\obj\Debug\Manager.Model.pdb

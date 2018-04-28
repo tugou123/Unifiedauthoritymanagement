@@ -1,0 +1,9 @@
+G:\统一授权管理系统\DemoTest\Manager.Base\bin\Debug\Manager.Base.dll
+G:\统一授权管理系统\DemoTest\Manager.Base\bin\Debug\Manager.Base.pdb
+G:\统一授权管理系统\DemoTest\Manager.Base\obj\Debug\Manager.Base.dll
+G:\统一授权管理系统\DemoTest\Manager.Base\obj\Debug\Manager.Base.pdb
+G:\统一授权管理系统\Manager.Base\obj\Debug\Manager.Base.csproj.CoreCompileInputs.cache
+G:\统一授权管理系统\Manager.Base\bin\Debug\Manager.Base.dll
+G:\统一授权管理系统\Manager.Base\bin\Debug\Manager.Base.pdb
+G:\统一授权管理系统\Manager.Base\obj\Debug\Manager.Base.dll
+G:\统一授权管理系统\Manager.Base\obj\Debug\Manager.Base.pdb

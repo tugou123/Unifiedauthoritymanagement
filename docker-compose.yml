@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  unifiedauthoritymanagement:
+    image: unifiedauthoritymanagement
+    build:
+      context: .\Unifiedauthoritymanagement\
+      dockerfile: Dockerfile
+
+  manager.api:
+    image: manager.api
+    build:
+      context: .\Manager.API
+      dockerfile: Dockerfile
+
