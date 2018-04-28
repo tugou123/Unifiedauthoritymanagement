@@ -21,7 +21,7 @@ namespace Manager.API.Controllers
      
 
         /// <summary>
-        /// 登录
+        /// 登录 00000
         /// </summary>
         /// <param name="user">登录人员信息： 账号，密码 ，是否记住密码</param>
         /// <returns></returns>
